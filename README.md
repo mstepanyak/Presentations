@@ -8,7 +8,7 @@ Presentation materials for technical talks that I presented in various conferenc
 3. Design Patterns for Serverless Systems
 4. AWS Serverless Architectural Patterns
 5. Architectural Kata and Practicing Architecture
-6. Continuous Delivery for Databases
+6. Continuous Delivery for Databases [here](https://www.youtube.com/watch?v=0IYTwzfHho0)
 
 
 
