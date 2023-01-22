@@ -8,7 +8,9 @@ Presentation materials for technical talks that I presented in various conferenc
 3. Design Patterns for Serverless Systems
 4. AWS Serverless Architectural Patterns
 5. Architectural Kata and Practicing Architecture
-6. Continuous Delivery for Databases [here](https://www.youtube.com/watch?v=0IYTwzfHho0)
+6. Continuous Delivery for Databases - video recording [here](https://www.youtube.com/watch?v=0IYTwzfHho0)
+7. Micro-ORM for .NET - video recording [here](https://www.youtube.com/watch?v=Vvokxo9Wc3s)
+8. Introduction to ASP.NET Core 1.0 - video recording [here](https://www.youtube.com/watch?v=EFGiZuQ9BV4)
 
 
 
