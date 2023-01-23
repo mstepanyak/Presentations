@@ -1,4 +1,4 @@
-# List of my presentations and activities
+# Below are some of my presentations and activities
 
 Presentation materials for technical talks that I presented in various conferences, meetups, and user groups, etc.
 <br>
